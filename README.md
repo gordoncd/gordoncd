@@ -27,4 +27,4 @@ I attained a mean IoU = 0.94 and F1 = 0.84.  Results and further information abo
 - Databases
 - Data management
 - PyTorch, Keras, Tensorflow
-- Python 
+- Python, SQL
