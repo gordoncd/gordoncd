@@ -10,12 +10,12 @@ Starting in June 2023, I have been working on the database team for the Coast to
 
 ## Current Personal Project:
 
-I'm currently working on [Time Series Summer 2023](https://github.com/gordoncd/time-series-summer2023). This project is focused on the application of deep learning techniques to predict the s&p 500.  I am incrementally increasing the complexity of my models and data.  
+I'm currently working on [Time Series Summer 2023](https://github.com/gordoncd/time-series-summer2023). This project focuses on applying deep learning techniques to predict the s&p 500.  I am incrementally increasing the complexity of my models and data.  
 My current data processing approach involves periodizing and creating 240 day feature vectors. More information can be found within my repository linked above. 
 
 ## Recent Project:
 
-I recently participated in a project called for a short-term class called [ReefNet](https://github.com/gordoncd/ReefNet). 
+I recently helped built a project called for a short-term class called [ReefNet](https://github.com/gordoncd/ReefNet). 
 I processed satellite imagery of Pacific Atolls, fed them into a variety of CNNs and tuned the hyperparmeters using grid search.  The most effective implementation used a modified U-Net. 
 I attained a mean IoU = 0.94 and F1 = 0.84.  Results and further information about implemetation can be seen in the link to the repository linked above.
 
