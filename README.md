@@ -1,6 +1,6 @@
 # Hello, I'm Gordon Doore 
 
-I'm a Computer Science student at Colby College, graduating in 2025. I have a keen interest in deep learning and have completed several projects in this domain.
+I'm a computer science student at Colby College, graduating in 2025. I have a keen interest in deep learning and have completed several projects in this domain.
 
 ## My Background:
 
