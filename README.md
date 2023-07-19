@@ -6,7 +6,7 @@ I'm a computer science student at Colby College, graduating in 2025. I have a ke
 
 In 2022, I participated in an REU program at California State University, Los Angeles. There, my project was to learn and use deep learning to predict crack propagation in concrete. Over the following school year (fall 2022), I continued this project until my data  was formatted to allow me to finally implement a Convolutional LSTM using Keras.
 
-Starting in June 2023, I have been working on the database team for the Coast to Cow to Consumer Project with Bigelow Laboratory and Colby College. My role has been to manage and develop relevant tables using MySQL and PHPMyAdmin and develop a web application for project participants to engage with the database more streamlined. I have learned a lot about web applications, using APIs, full stack development, databases, and working with large amounts of data.
+Starting in June 2023, I have been working on the database team for the Coast to Cow to Consumer Project with Bigelow Laboratory and Colby College. My role has been to manage and develop relevant tables using MySQL and PHPMyAdmin and develop a web application for project participants to engage with the database in a streamlined manner. I have learned a lot about web applications, using APIs, full stack development, databases, and working with large amounts of data.
 
 ## Current Independent Project:
 
