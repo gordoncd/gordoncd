@@ -16,7 +16,7 @@ I'm currently working on [Time Series Summer 2023](https://github.com/gordoncd/t
 
 I recently helped lead a project called for a short-term class called [ReefNet](https://github.com/gordoncd/ReefNet). 
 I processed satellite imagery of Pacific Atolls, fed them into a variety of CNNs, and tuned the hyperparameters using grid search.  The most effective implementation used a modified U-Net. 
-I attained a mean IoU = 0.94 and F1 = 0.84.  Results and further information about implementation can be seen in the link to the repository linked above.
+I attained a mean IoU = 0.94 and F1 = 0.84.  Results and further information about implementation can be seen in the link to the repository included above.
 
 ## Skills: 
 
