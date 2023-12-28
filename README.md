@@ -8,15 +8,14 @@ In 2022, I participated in an REU program at California State University, Los An
 
 Starting in June 2023, I have been working on the database team for the Coast to Cow to Consumer Project with Bigelow Laboratory and Colby College. My role has been to manage and develop relevant tables using MySQL and PHPMyAdmin and develop a web application for project participants to engage with the database in a streamlined manner. I have learned a lot about web applications, using APIs, full stack development, databases, and working with large amounts of data.
 
-## Current Independent Project:
-
-I'm currently working on [Time Series Summer 2023](https://github.com/gordoncd/time-series-summer2023). This project focuses on applying deep learning techniques to predict the s&p 500.  I am incrementally increasing the complexity of my models and data.  For more information and to track my progress, see the repo linked above.
+In the Fall of 2023, I took a class on Neural Networks where we spent a lot of time building our own Keras Sequential class from scratch using Numpy.
 
 ## Recent Project:
 
-I recently helped lead a project called for a short-term class called [ReefNet](https://github.com/gordoncd/ReefNet). 
-I processed satellite imagery of Pacific Atolls, fed them into a variety of CNNs, and tuned the hyperparameters using grid search.  The most effective implementation used a modified U-Net. 
-I attained a mean IoU = 0.94 and F1 = 0.84.  Results and further information about implementation can be seen in the link to the repository included above.
+In January 2023 I helped lead a project called for a short-term class called [ReefNet](https://github.com/gordoncd/ReefNet). 
+I processed satellite imagery of Pacific Atolls, fed them into a variety of CNNs, and tuned the hyperparameters using grid search.  The most effective implementation used a U-Net. 
+I attained a mean IoU = 0.94 and F1 = 0.84.  Results and further information about implementation can be seen in the link to the repository included above. The project content and much of the framework was provided by our instructor and another collaborating investigator.
+
 
 ## Skills: 
 
@@ -24,6 +23,5 @@ I attained a mean IoU = 0.94 and F1 = 0.84.  Results and further information abo
 - Deep Learning
 - Time Series Analysis
 - Databases
-- Data management
 - PyTorch, Keras, Tensorflow
 - Python, SQL
