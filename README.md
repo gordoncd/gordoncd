@@ -10,7 +10,7 @@ Starting in June 2023, I have been working on the database team for the Coast to
 
 ## Recent Involvement/Development:
 
-During my fall semester, I completed a class covering neural networks from the ground up.  There, we implemented a number of neural networks using numpy and the low level parts of TensorFlow.  This included ADALINE, the multilayer perceptron, and a convolutional neural network.  We solved a variety of problems using these networks and I learned a lot about solving real world problems. I additionally more formally learned Keras to implement transfer learning, neural style transfer, and deepdream. This course was a great for formal coursework in machine learning ideas.
+During my fall semester, I completed a class covering neural networks from the ground up.  There, we implemented a number of neural networks using numpy and the low level parts of TensorFlow.  This included ADALINE, the multilayer perceptron, and a convolutional neural network.  We solved a variety of problems using these networks and I learned a lot about solving real world problems. We also had a formal introduction to Keras for transfer learning, fast prototyping, neural style transfer, and deepdream. This course was a great for formal coursework in machine learning ideas.
 
 ## Skills: 
 
