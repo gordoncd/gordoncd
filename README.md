@@ -10,12 +10,9 @@ Starting in June 2023, I have been working on the database team for the Coast to
 
 In the Fall of 2023, I took a class on Neural Networks where we spent a lot of time building our own Keras Sequential class from scratch using Numpy.
 
-## Recent Project:
+## Recent Involvement/Development:
 
-In January 2023 I helped lead a project called for a short-term class called [ReefNet](https://github.com/gordoncd/ReefNet). 
-I processed satellite imagery of Pacific Atolls, fed them into a variety of CNNs, and tuned the hyperparameters using grid search.  The most effective implementation used a U-Net. 
-I attained a mean IoU = 0.94 and F1 = 0.84.  Results and further information about implementation can be seen in the link to the repository included above. The project content and much of the framework was provided by our instructor and another collaborating investigator.
-
+During my fall semester, I completed a class covering neural networks from the ground up.  There, we implemented a number of neural networks using numpy and the low level parts of TensorFlow.  This included ADALINE, the multilayer perceptron, and a convolutional neural network.  We solved a variety of problems using these networks and I learned a lot about solving real world problems. I additionally more formally learned Keras to implement transfer learning, neural style transfer, and deepdream. This course was a great for formal coursework in machine learning ideas.
 
 ## Skills: 
 
