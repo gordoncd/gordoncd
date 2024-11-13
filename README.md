@@ -4,7 +4,7 @@ I'm a Computer Science major at Colby College with a passion for machine learnin
 
 ## 🌱 A Bit About Me
 - 📚 **Academic Background**: Pursuing a B.A. in Computer Science, with a strong focus on areas like Neural Networks, Deep Learning, and Data Analysis.
-- 🏆 **Achievements**: NCAA Academic All-American, consistent Dean's List honoree, and an athlete with leadership experience as a team captain for Colby's Track and Field team.
+- 🏆 **Achievements**: NCAA Academic All-American, consistent Dean's List honoree
 - 🌊 **Research Interests**: Passionate about using technology to better understand and solve real-world problems, such as ocean wave analysis and environmental data management.
 
 ## 🛠️ Skills & Tools
@@ -31,7 +31,7 @@ Engaged in hands-on ML research, building foundational knowledge in Python and m
   Leveraged UNet to segment satellite imagery of Pacific atolls, achieving a significant reduction in inference time and strong accuracy metrics.
 
 ## 🎖 Extracurriculars
-- Colby College Cross Country / Track and Field Team *Captain*  
+- Colby College Cross Country / Track and Field Team 
   Competed at the national level and set a new school record in the 1500m event.
 
 ## 📫 Let's Connect
