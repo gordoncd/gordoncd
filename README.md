@@ -4,7 +4,7 @@ I'm a Computer Science major at Colby College with a passion for machine learnin
 
 ## 🌱 A Bit About Me
 - 📚 **Academic Background**: Pursuing a B.A. in Computer Science, with a strong focus on areas like Neural Networks, Deep Learning, and Data Analysis.
-- 🏆 **Achievements**: NCAA Academic All-District, consistent Dean's List honoree
+- 🏆 **Achievements**: NCAA Academic All-District
 - 🌊 **Research Interests**: Passionate about using technology to better understand and solve real-world problems, such as ocean wave analysis and environmental data management.
 
 ## 🛠️ Skills & Tools
