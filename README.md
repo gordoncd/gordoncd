@@ -2,18 +2,18 @@
 
 I'm a Computer Science major at Colby College with a passion for machine learning, data science, and applied technology in environmental sciences. My academic and project experiences center around developing tools and insights using computational modeling, deep learning, and data visualization.
 
-## 🌱 A Bit About Me
-- 📚 **Academic Background**: Pursuing a B.A. in Computer Science, with a strong focus on areas like Neural Networks, Deep Learning, and Data Analysis.
-- 🏆 **Achievements**: NCAA Academic All-District
-- 🌊 **Research Interests**: Passionate about using technology to better understand and solve real-world problems, such as ocean wave analysis and environmental data management.
+##  A Bit About Me
+-  **Academic Background**: Pursuing a B.A. in Computer Science, with a strong focus on areas like Neural Networks, Deep Learning, and Data Analysis.
+-  **Achievements**: NCAA Academic All-District
+- **Research Interests**: Passionate about using technology to better understand and solve real-world problems, such as ocean wave analysis and environmental data management.
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 - **Programming Languages**: Python, JavaScript, SQL
 - **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch
 - **Data Visualization & Analysis**: matplotlib, pandas, numpy
 - **Other Tools**: git, GitHub, OpenCV, MySQL, AWS, Spark
 
-## 💼 Experience
+## Experience
 ### Colby College - Summer Research Assistant
 Contributed to a toolkit for high-resolution water wave analysis, implementing object tracking and cost-effective wave measurement solutions.
 
